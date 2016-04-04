@@ -1,0 +1,9 @@
+C:\Users\TheDarkNESS\Documents\CLU '13\Visual Programming\Prototype\Prototype\bin\Debug\Prototype.exe
+C:\Users\TheDarkNESS\Documents\CLU '13\Visual Programming\Prototype\Prototype\bin\Debug\Prototype.pdb
+C:\Users\TheDarkNESS\Documents\CLU '13\Visual Programming\Prototype\Prototype\bin\Debug\Prototype.xml
+C:\Users\TheDarkNESS\Documents\CLU '13\Visual Programming\Prototype\Prototype\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\TheDarkNESS\Documents\CLU '13\Visual Programming\Prototype\Prototype\obj\x86\Debug\Prototype.vbproj.GenerateResource.Cache
+C:\Users\TheDarkNESS\Documents\CLU '13\Visual Programming\Prototype\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\TheDarkNESS\Documents\CLU '13\Visual Programming\Prototype\Prototype\obj\x86\Debug\Prototype.xml
+C:\Users\TheDarkNESS\Documents\CLU '13\Visual Programming\Prototype\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\TheDarkNESS\Documents\CLU '13\Visual Programming\Prototype\Prototype\obj\x86\Debug\WindowsApplication1.frmGame.resources

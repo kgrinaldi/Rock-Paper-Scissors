@@ -1,0 +1,12 @@
+C:\Users\TheDarkNESS\Documents\CLU '13\Visual Programming\csc300-final-rinaldi-aguilar-kersten-game\csc300-final-rinaldi-aguilar-kersten-game\obj\x86\Debug\Prototype.exe
+C:\Users\TheDarkNESS\Documents\CLU '13\Visual Programming\csc300-final-rinaldi-aguilar-kersten-game\csc300-final-rinaldi-aguilar-kersten-game\obj\x86\Debug\Prototype.xml
+C:\Users\TheDarkNESS\Documents\CLU '13\Visual Programming\csc300-final-rinaldi-aguilar-kersten-game\csc300-final-rinaldi-aguilar-kersten-game\obj\x86\Debug\Prototype.pdb
+C:\Users\TheDarkNESS\Documents\CLU '13\Visual Programming\csc300-final-rinaldi-aguilar-kersten-game\csc300-final-rinaldi-aguilar-kersten-game\bin\Debug\Prototype.exe
+C:\Users\TheDarkNESS\Documents\CLU '13\Visual Programming\csc300-final-rinaldi-aguilar-kersten-game\csc300-final-rinaldi-aguilar-kersten-game\bin\Debug\Prototype.pdb
+C:\Users\TheDarkNESS\Documents\CLU '13\Visual Programming\csc300-final-rinaldi-aguilar-kersten-game\csc300-final-rinaldi-aguilar-kersten-game\bin\Debug\Prototype.xml
+C:\Users\TheDarkNESS\Documents\CLU '13\Visual Programming\csc300-final-rinaldi-aguilar-kersten-game\csc300-final-rinaldi-aguilar-kersten-game\obj\x86\Debug\WindowsApplication1.frmGame.resources
+C:\Users\TheDarkNESS\Documents\CLU '13\Visual Programming\csc300-final-rinaldi-aguilar-kersten-game\csc300-final-rinaldi-aguilar-kersten-game\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\TheDarkNESS\Documents\CLU '13\Visual Programming\csc300-final-rinaldi-aguilar-kersten-game\csc300-final-rinaldi-aguilar-kersten-game\obj\x86\Debug\csc300-final-rinaldi-aguilar-kersten-game.vbproj.GenerateResource.Cache
+E:\Old Stuff\Documents\csc300-final-rinaldi-aguilar-kersten-game\csc300-final-rinaldi-aguilar-kersten-game\obj\x86\Debug\Prototype.exe
+E:\Old Stuff\Documents\csc300-final-rinaldi-aguilar-kersten-game\csc300-final-rinaldi-aguilar-kersten-game\obj\x86\Debug\Prototype.xml
+E:\Old Stuff\Documents\csc300-final-rinaldi-aguilar-kersten-game\csc300-final-rinaldi-aguilar-kersten-game\obj\x86\Debug\Prototype.pdb
